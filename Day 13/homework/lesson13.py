@@ -1,2 +1,2 @@
-for i in range (100):
-    print(str(i) + "GIORGI QARELI")
+for i in range (101):
+    print(str(i) +"GIORGI QARELI" )
