@@ -1,16 +1,13 @@
-even = []
-odd= []
+more = []
+less = []
 
 for i in range(10):
 
+    number = int(input("enter numbers:"))
+    if number > 100:
+        more.append(number)
+    else:
+        less.append(number)
 
-
-    input_number = int(input("enter number:"))
-
-if input_number %2 == 0:
-    even.append(input_number) 
-else:
-    odd.append(input_number)
-
-print(even)
-print(odd)
+print(more)
+print(less)
