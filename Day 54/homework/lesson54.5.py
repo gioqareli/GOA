@@ -3,7 +3,6 @@
 def sum():
     num_1 = int(input("enter random number:"))
     num_2 = int(input("enter second random number:"))
-    sum_1 = num_1 + num_2
-    print(sum_1)
+    return(num_1+ num_2)
 
-sum()
+print(sum())

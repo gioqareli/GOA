@@ -3,7 +3,6 @@
 def math():
     num_1 = int(input("enter number:"))
     num_2 = int(input("enter second  number:"))
-    sum = num_1 + num_2 + 5
-    print(sum)
+    return(num_1 + num_1 + 5)
 
-math()
+print(math())

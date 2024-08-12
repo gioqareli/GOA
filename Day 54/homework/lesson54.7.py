@@ -3,8 +3,7 @@
 def number():
     num = int(input("enter number:"))
     if num % 2 == 1:
-        print("False")
+        return("False")
     else:
-        print("True")
-
-number()
+        return("True")
+print(number())

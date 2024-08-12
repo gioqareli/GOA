@@ -3,8 +3,7 @@
 def cool():
     num = int(input("enter random number :"))
     if num >= 10:
-        print("wow cool")
+        return("wow cool")
     else:
-        print("try again")
-
-cool()
+        return("try again")
+print(cool())

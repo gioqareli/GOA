@@ -2,9 +2,7 @@
 
 def text_length():
     txt = input("enter random text:")
-    leng = len(txt)
-    print(leng)
+    return len(txt)
 
-
-
-text_length()     
+print(text_length())
+    

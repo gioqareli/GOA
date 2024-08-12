@@ -3,8 +3,8 @@
 def type():
     num = int(input("enter number:"))
     if num <= 0:
-        print("this number is negative")
+        return("this number is negative")
     else:
-        print("this number is positive")
+        return("this number is positive")
     
-type()
+print(type())
