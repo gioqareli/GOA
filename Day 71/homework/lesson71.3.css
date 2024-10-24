@@ -1,0 +1,28 @@
+.a2{
+    color: chartreuse;
+}
+
+
+.p1{
+    color: blue;
+    font-family: "Agdasima", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 5px 3px 6px aqua;
+}
+.h1{
+    text-align: center;
+    color: aqua;
+    text-shadow: 5px 10px 3px;
+    text-decoration: underline;
+    background-color: rgb(0, 0, 0)
+}
+.h2{
+    text-align: center;
+    color: aqua;
+    text-shadow: 5px 10px 3px;
+    text-decoration: underline;
+    background-color: rgb(0, 0, 0)
+}
+
+    

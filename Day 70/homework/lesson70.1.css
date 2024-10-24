@@ -1,0 +1,13 @@
+h1{
+    color: green;
+    text-shadow: 10px 20px 30px;
+    font-size: 50px;
+} 
+.text2{
+    color: blue;
+    font-size: medium;
+}
+.text3{
+    color: purple;
+    font-size: smaller;
+}

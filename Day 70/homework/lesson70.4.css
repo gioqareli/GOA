@@ -1,0 +1,37 @@
+.p1{
+    text-align: right;
+    text-decoration: underline dotted green;
+}
+.p2{
+    text-align: center;
+    text-decoration: line-through;
+}
+.p3{
+    text-align: center;
+    text-decoration: underline;
+}
+.p4{
+    text-align: right;
+    text-decoration: line-through dotted green;
+
+}
+.p5{
+    text-decoration: line-through;
+}
+.p6{
+    text-decoration: overline;
+}
+.p7{
+    color: green;
+    text-align: right;
+    text-decoration: overline green;
+}
+.p8{
+    text-align: center;
+    color: gray;
+    text-decoration: overline gray;
+}
+.p9{
+    text-align: right;
+    text-decoration: underline dotted green;
+}

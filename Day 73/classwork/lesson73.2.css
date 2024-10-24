@@ -1,0 +1,14 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    transition: 0.5s;
+}
+div:hover{
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+    margin-top: 300px;
+    color: black;
+   
+}

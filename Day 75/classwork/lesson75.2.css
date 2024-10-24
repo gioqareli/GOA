@@ -1,0 +1,9 @@
+table , tr , td{
+    border-top: 7px dotted green;
+    border-left: 4px solid aqua;
+    border-right: 2px dashed greenyellow;
+    border-bottom: 3px solid blue;
+
+    padding: 4px;
+
+}
