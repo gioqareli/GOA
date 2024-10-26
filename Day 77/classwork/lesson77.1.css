@@ -1,0 +1,8 @@
+table , tr , td{
+    /* margin: -12px; მარჯინი არის ელემენტის დაშორება გარე სივრცესთან */
+    /* padding: 3px; padding არის სივრცე ელემენტის შიგნით */
+    border-top: 7px dotted green;
+    border-left: 4px solid aqua;
+    border-right: 2px dashed greenyellow;
+    border-bottom: 3px solid blue;
+}
