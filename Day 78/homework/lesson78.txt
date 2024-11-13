@@ -1,0 +1,8 @@
+მარჯინი არის ელემენტის დაშორება გარე სივრცესთან0.
+პადინგი არის სივრცე ელემენტის შიგნით
+
+1. list-style-type
+2. list-style-position
+3. list-style-image
+
+ამ სამ property-ს აერთიანებს list-style.
