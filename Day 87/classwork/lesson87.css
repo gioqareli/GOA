@@ -1,0 +1,21 @@
+.goa{
+    color: black;
+    background-color: aqua;
+    text-shadow: 10px 10px 10px aqua;
+    text-align: center;
+
+}
+.GOA{
+    color: black;
+    text-shadow: 5px 15px 10px aqua;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    background-color: green;
+    width: 100%;
+    border: 1px  black solid;
+    text-align: center;
+    height: 30px;
+
+
+}

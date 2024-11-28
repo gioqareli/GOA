@@ -1,0 +1,32 @@
+.parent{
+    padding: 30px;
+    height: 200px;
+    width: 300px;
+    color: rgb(0, 9, 128);
+    border: 4px solid black;
+    display:flex;
+    flex-direction: column;
+    background-color: darkblue;
+}
+.chil1{
+    height: 100px;
+    width: 100px;
+    color: aqua;
+    border: 3px solid white;
+    background-color: rgb(226, 180, 43);
+}
+.chil2{
+    
+        height: 100px;
+        width: 100px;
+        color: aqua;
+        border: 3px solid white;
+        background-color: rgb(226, 180, 43);
+}
+.chil3{
+    height: 100px;
+    width: 100px;
+    color: aqua;
+    border: 3px solid white;
+    background-color: rgb(226, 180, 43);
+}
