@@ -1,0 +1,32 @@
+
+.main{
+    background-color: rgba(31, 31, 31);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    padding: 10px 15px;
+  
+}
+img{
+    border-radius: 100px;
+    width: 70px;
+    height: 70px;
+}
+.p0{
+    font-size: 30px;
+}
+.p1{
+    color: rgb(152, 198, 17);
+    
+}
+.button{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+   
+   
+}
